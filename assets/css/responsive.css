@@ -123,6 +123,31 @@
        font-size:3.2rem;
 
     }
+  /*=============================
+    MANTENIMIENTO RESPONSIVE
+=============================*/
+
+@media (max-width: 991px){
+
+    .maintenance-card{
+
+        padding:40px 30px;
+
+    }
+
+    .maintenance-price{
+
+        margin-top:40px;
+
+    }
+
+    .maintenance-card .btn{
+
+        width:100%;
+
+    }
+
+}
     /*=============================
             PORTAFOLIO
     =============================*/
